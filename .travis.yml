@@ -4,7 +4,7 @@ services:
   - docker
 
 before_install:
-  - docker build -t BesliuDenis/docker-react -f Dockerfile.dev .
+  - docker build -t besliudenis/docker-react -f Dockerfile.dev .
 
 script:
-  - docker run -e CI=true BesliuDenis/docker-react npm run test
+  - docker run -e CI=true besliudenis/docker-react npm run test
