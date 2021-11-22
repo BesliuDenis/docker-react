@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aafc74f-fba2-4a9f-a214-b97eab425d2e" name="Default Changelist" comment="" />
+    <list default="true" id="9aafc74f-fba2-4a9f-a214-b97eab425d2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,9 +59,21 @@
       <workItem from="1635954317148" duration="5190000" />
       <workItem from="1636822254746" duration="635000" />
     </task>
+    <task id="LOCAL-00001" summary="Added travis file">
+      <created>1637579463007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637579463007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added travis file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added travis file" />
   </component>
 </project>
